@@ -1,0 +1,31 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(133, 228, 196);
+    margin: 4px;
+}
+
+body{
+    text-align: center;
+}
+.container{
+    display: inline-block;
+
+    padding: 3%;
+    margin: 0 auto;
+    box-shadow: 1%;
+
+    background-color: aliceblue;
+    border-radius: 1px;
+}
+#pantalla{
+    background-color: aliceblue;
+    width: 250px;
+    height: 15;
+}
+
+input{
+    text-align: center;
+    border-radius: 5px;
+    height: 55px;
+    width: 55px;
+}
